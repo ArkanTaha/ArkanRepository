@@ -1,2 +1,2 @@
-# ArkanRepository
+# Olympics Data Analysis Using Python (Paris 1900 - Rio 2016)
 The Olympics Data Analysis Using Python. This code helps to analyze and visualize past Olympics data for 120 years. The used dataset has downloaded from Kaggle.com. This dataset is complete history of Olympic games since Paris Olympic games 1900 till Rio Olympic games 2016. It includes details about athletes and results, as well as about regions. In addition, this code explain in comments how to use Python libraries and their associated functions for creating interesting visualizations and analyzing vast data.
